@@ -1,16 +1,32 @@
-### Hi there 👋
+### Xin chào <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+Đây là nơi để tui làm mấy trò con bò khùng điên :rofl:
 
-<!--
-**ngnsusinn/ngnsusinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 &nbsp;Đang là học sinh :wink:
+- 🌱 &nbsp;Đang học C++, Python
+- 👨‍💻 &nbsp;Tìm hiểu về tui nhiều hơn tại [Facebook](https://www.facebook.com/ss.im6)
+- ⚡ &nbsp;1 fact về tui: I :heart: TN and PC
 
-Here are some ideas to get you started:
+🔗 &nbsp;**Tui đã có mặt trên các nền tảng**
+<p align="left">
+<a href="https://www.linkedin.com/in/sinisme6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ss.iems6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4214976" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/ss.im6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="4214976" height="30" width="40" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📊 &nbsp;**Đây là thời gian mà tui đã xài**
+
+<!--START_SECTION:waka-->
+ ```text
+Python       3 hrs 41 mins   █████████████████▓░░░░░░░   71.01 %
+YAML         1 hr 11 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.82 %
+Other        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+```
+<!--END_SECTION:waka-->
+  
+### ✨&nbsp; Về tui
+
+Tui là một cốt-đơ với n năm kinh nghiệm và non ẹc!
+
+#### Một vài thành tựu mà tui đã đạt được
+ - NULL
+
