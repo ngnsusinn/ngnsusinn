@@ -18,12 +18,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 March 2023 - To: 22 March 2023
-
 Total Time: 49 mins
 
-C++     48 mins         >>>>>>>>>>>>>>>>>>>>>>>>-   97.72 %
-Other   1 min           >------------------------   02.28 %
+C++     48 mins         ████████████████████████▒   97.72 %
+Other   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
