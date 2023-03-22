@@ -18,5 +18,5 @@ jobs:
           BLOCKS: ░▒▓█
           TIME_RANGE: last_7_days
           SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          LANG_COUNT: 10
+          SHOW_MASKED_TIME: false
+          LANG_COUNT: 5
