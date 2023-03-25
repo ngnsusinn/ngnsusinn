@@ -13,7 +13,7 @@
  <a href="https://www.facebook.com/ss.im6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="4214976" height="30" width="40" /></a>
 
 
-📊 &nbsp;**Coding time~!**
+📊 &nbsp;**Coding time trong 7 ngày vừa qua~!**
 
 <!--START_SECTION:waka-->
 
