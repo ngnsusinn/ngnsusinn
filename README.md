@@ -2,7 +2,7 @@
 Đây là nơi để tui làm mấy trò con bò khùng điên :rofl:
 
 - 🔭 &nbsp;Đang là học sinh :wink:
-- 🌱 &nbsp;Đang học C++, Python
+- 🌱 &nbsp;Đang học C++, Python và JavaScript
 - 👨‍💻 &nbsp;Tìm hiểu về tui nhiều hơn tại [Facebook](https://www.facebook.com/ss.im6)
 - ⚡ &nbsp;1 fact về tui: I :heart: TN and PC
 
