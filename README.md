@@ -34,5 +34,5 @@ CSV          0 secs          ░░░░░░░░░░░░░░░░░
 Tui là một cốt-đơ với n năm kinh nghiệm và non ẹc!
 
 #### Một vài thành tựu mà tui đã đạt được
- - NULL
+ - Giải nhì HSG cấp tỉnh (Phú Yên) 2022 - 2023
 
