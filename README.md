@@ -29,6 +29,9 @@ CSV          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
  </strong>
+ 
+ ![](https://leetcard.jacoblin.cool/ngnsusinn?ext=contest)
+ 
 ### ✨&nbsp; Về tui
 
 Tui là một cốt-đơ với n năm kinh nghiệm và non ẹc!
