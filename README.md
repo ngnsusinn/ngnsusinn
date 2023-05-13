@@ -14,7 +14,7 @@
 
 
 📊 &nbsp;**Coding time~!**
-**sdfsfdsfsdf**
+ <strong>
 <!--START_SECTION:waka-->
 
 ```text
@@ -28,7 +28,7 @@ CSV          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-  **
+ </strong>
 ### ✨&nbsp; Về tui
 
 Tui là một cốt-đơ với n năm kinh nghiệm và non ẹc!
