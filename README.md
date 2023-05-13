@@ -30,7 +30,7 @@ CSV          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
  </strong>
  
- ![](https://leetcard.jacoblin.cool/ngnsusinn?ext=contest)
+ ![](https://leetcard.jacoblin.cool/lapor?ext=contest)
  
 ### ✨&nbsp; Về tui
 
