@@ -19,6 +19,6 @@ jobs:
           COMMIT_MESSAGE: "Cập nhật README.md với biểu đồ mới!"
           LANG_COUNT: 10
           TIME_RANGE: all_time
-          BLOCKS: ▁▂▃▄▅▆▇█
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TOTAL: true
         
