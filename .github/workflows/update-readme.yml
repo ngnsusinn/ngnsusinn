@@ -20,4 +20,5 @@ jobs:
           LANG_COUNT: 10
           TIME_RANGE: all_time
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SHOW_TOTAL: true
         
