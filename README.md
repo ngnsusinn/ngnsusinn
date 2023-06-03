@@ -17,7 +17,7 @@
  <strong>
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 12 hrs 51 mins
 
 C++          9 hrs 54 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀   70.53 %
