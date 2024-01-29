@@ -2,9 +2,8 @@
 Đây là nơi để tui làm mấy trò con bò khùng điên :rofl:
 
 - 🔭 &nbsp;Đang là học sinh :wink:
-- 🌱 &nbsp;Đang học C++, Python và JavaScript
+- 🌱 &nbsp;Đang học C++, Java...
 - 👨‍💻 &nbsp;Tìm hiểu về tui nhiều hơn tại [Facebook](https://www.facebook.com/ngnsusinn)
-- ⚡ &nbsp;1 fact về tui: I :heart: TN
 
 🔗 &nbsp;**Tui đã có mặt trên các nền tảng**
 <p align="left">
