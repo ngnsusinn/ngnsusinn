@@ -2,7 +2,7 @@
 
 I'm **ngnsusinn** - a passionate **Backend Developer** with a strong foundation in algorithms and system design.
 
-- 🎓 Currently studying **Information Technology** at **[Ho Chi Minh City University of Transport](https://ut.edu.vn/)**
+- 🎓 Currently studying **Information Technology** at **[University of Transport Ho Chi Minh City](https://ut.edu.vn/)**
 - 💻 Specializing in **Backend Development** and **API Design**
 - 🔭 Interested in competitive programming, algorithms, and database optimization
 - ⚡ Fun fact: I sharpen my algorithmic skills on Codeforces and LeetCode
