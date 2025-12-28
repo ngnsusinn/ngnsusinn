@@ -10,17 +10,18 @@ MY_CODEFORCES_USER="ngnsusinn"
 MY_LEETCODE_USER="ngnsusinn"
 
 # Danh sách các API và tên file ảnh tương ứng
+# Lưu ý: Đã đổi GitHub Stats sang dịch vụ 'github-profile-summary-cards' để tránh lỗi 503
 declare -A image_api_endpoints=(
-    # Thống kê GitHub tổng quan
-    ["github_stats.svg"]="https://github-readme-stats.vercel.app/api?username=${MY_GITHUB_USER}&show_icons=true&hide=contribs&theme=github_dark&border_color=30363d"
+    # Thống kê GitHub tổng quan (Dùng dịch vụ thay thế)
+    ["github_stats.svg"]="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=${MY_GITHUB_USER}&theme=github_dark"
     
-    # Thống kê ngôn ngữ lập trình
-    ["top_langs.svg"]="https://github-readme-stats.vercel.app/api/top-langs/?username=${MY_GITHUB_USER}&layout=compact&langs_count=6&theme=github_dark&border_color=30363d&size_weight=0.5&count_weight=0.5&hide=css"
+    # Thống kê ngôn ngữ lập trình (Dùng dịch vụ thay thế)
+    ["top_langs.svg"]="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=${MY_GITHUB_USER}&theme=github_dark"
     
-    # Thống kê Codeforces
+    # Thống kê Codeforces (Giữ nguyên vì vẫn hoạt động tốt)
     ["codeforces_stats.svg"]="https://codeforces-readme-stats.vercel.app/api/card?username=${MY_CODEFORCES_USER}&theme=github_dark&force_username=true&border_color=30363d"
     
-    # Thống kê LeetCode (Lưu ý: CSS custom từ repo gốc có thể không hoạt động với bạn, mình đã đưa về default theme dark)
+    # Thống kê LeetCode (Giữ nguyên vì vẫn hoạt động tốt)
     ["leetcode_stats.svg"]="https://leetcard.jacoblin.cool/${MY_LEETCODE_USER}?theme=dark&font=noto_sans&ext=contest"
 )
 
@@ -38,6 +39,8 @@ download_image() {
         echo "✅ Downloaded ${image_name}"
     else
         echo "❌ Failed to download ${image_name}. HTTP status: $http_code"
+        # In ra nội dung lỗi để debug nếu cần
+        cat "$temp_file"
         rm -f "$temp_file"
     fi
 }
