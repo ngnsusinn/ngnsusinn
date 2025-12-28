@@ -1,19 +1,20 @@
-## 📊 GitHub Stats
+## 📊 Github stats
 
-<span>
-<img height="165" src="stats/github_stats.svg" alt="Github Stats" />
-<img height="165" src="stats/top_langs.svg" alt="Top Languages" />
-</span>
+<p align="left">
+  <img height="170" src="stats/github_stats.svg" alt="Github Stats" />
+  <img height="170" src="stats/top_langs.svg" alt="Top Languages" />
+</p>
 
-## 📈 Coding Profiles
+## 📈 Coding profiles stats
 
-<a href="https://codeforces.com/profile/THAY_TEN_CODEFORCES_CUA_BAN">
-<img align="center" height="312" src="stats/codeforces_stats.svg" alt="Codeforces Stats"/>
-</a>
-
-<a href="https://leetcode.com/THAY_TEN_LEETCODE_CUA_BAN">
-<img align="center" height="312" src="stats/leetcode_stats.svg" alt="Leetcode Stats"/>
-</a>
+<p align="left">
+  <a href="https://codeforces.com/profile/ngnsusinn">
+    <img height="320" src="stats/codeforces_stats.svg" alt="Codeforces Stats"/>
+  </a>
+  <a href="https://leetcode.com/ngnsusinn">
+    <img height="320" src="stats/leetcode_stats.svg" alt="Leetcode Stats"/>
+  </a>
+</p>
 
 ## 🧩 Technologies & Tools
 
