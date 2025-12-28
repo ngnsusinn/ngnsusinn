@@ -12,17 +12,17 @@ Tôi là **ngnsusinn** - một lập trình viên đam mê công nghệ và gi�
 ## �📊 Github stats
 
 <span>
-<img height="165" src="stats/github_stats.svg" alt="ngnsusinn Github Stats" />
-<img height="165" src="stats/top_langs.svg" alt="ngnsusinn Github Top Languages" />
+<img height="165" src="stats/github_stats.svg1" alt="ngnsusinn Github Stats" />
+<img height="165" src="stats/top_langs.svg1" alt="ngnsusinn Github Top Languages" />
 </span>
 
 ## 📈 Coding profiles stats
 
 <a href="https://codeforces.com/profile/ngnsusinn">
-<img align="center" height="312" src="stats/codeforces_stats.svg" alt="ngnsusinn Codeforces Stats"/>
+<img align="center" height="312" src="stats/codeforces_stats.svg1" alt="ngnsusinn Codeforces Stats"/>
 </a>
 <a href="https://leetcode.com/ngnsusinn">
-<img align="center" height="312" src="stats/leetcode_stats.svg" alt="ngnsusinn Leetcode Stats"/>
+<img align="center" height="312" src="stats/leetcode_stats.svg1" alt="ngnsusinn Leetcode Stats"/>
 </a>
 
 ## 🧩 Technologies worked with
