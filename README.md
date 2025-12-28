@@ -8,9 +8,7 @@ I'm **ngnsusinn** - a passionate **Backend Developer** with a strong foundation 
 - 💬 Open to discussing backend architectures, system design, and problem-solving!
 - ⚡ Fun fact: I sharpen my algorithmic skills on Codeforces and LeetCode
 
----
-
-#📊 Github stats
+## 📊 Github stats
 
 <span>
 <img height="165" src="stats/github_stats.svg" alt="ngnsusinn Github Stats" />
