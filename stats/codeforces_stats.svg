@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-  width="380" height="290"
-  viewBox="0 0 380 290" preserveAspectRatio="xMidYMid meet">
-  <title>ngnsusinn | Codeforces Stats</title>
+  width="380" height="312"
+  viewBox="0 0 380 312" preserveAspectRatio="xMidYMid meet">
+  <title>redheadphone | Codeforces Stats</title>
   <style>
 
     svg {
@@ -18,7 +18,7 @@
       width: calc(100% - 1px);
       height: calc(100% - 1px);
       fill: #0D1117;
-      stroke: #e4e2e2;
+      stroke: #30363d;
       stroke-width: 1;
       rx: 4px;
       ry: 4px;
@@ -107,7 +107,7 @@
   <g>
     <rect x="0.5" y="0.5" id="background" />
     <g>
-      <foreignObject x="15" y="15" width="350" height="260">
+      <foreignObject x="15" y="15" width="350" height="282">
         <div xmlns="http://www.w3.org/1999/xhtml">
           <table>
             <thead>
@@ -119,14 +119,14 @@
                     <rect x="22" y="10.125" width="7" height="14" rx="2" fill="#F44336" />
                     <rect x="11" width="7" height="24.125" rx="2" fill="#2196F3" />
                   </svg>
-                  <span id="name">ngnsusinn</span>
+                  <span id="name">redheadphone</span>
                 </td>
               </tr>
               <tr style="animation-delay: 300ms;">
                 <td id="ranks">
-                  <span style="color: #8b898b;" id="rank">Newbie</span>
-                   (max: <span
-                    style="color: #8b898b;" id="max-rank">Newbie</span>) </td>
+                  <span style="color: #fc3dff;" id="rank">Candidate Master</span>
+                  <br/> (max: <span
+                    style="color: #fc3dff;" id="max-rank">Candidate Master</span>) </td>
               </tr>
             </thead>
           </table>
@@ -143,7 +143,7 @@
                   </svg></td>
                 <td> Contest
                   Rating: </td>
-                <td class="stats-num" id="rating">422</td>
+                <td class="stats-num" id="rating">1942</td>
               </tr>
               <tr style="animation-delay: 800ms;">
                 <td class="stats-icon">
@@ -161,7 +161,7 @@
                   </svg></td>
                 <td> Max Contest
                   Rating: </td>
-                <td class="stats-num" id="max-rating">422</td>
+                <td class="stats-num" id="max-rating">1942</td>
               </tr>
               <tr style="animation-delay: 1000ms;">
                 <td class="stats-icon">
@@ -178,7 +178,7 @@
                       stroke-width="1.5" />
                   </svg></td>
                 <td> Rated Contests: </td>
-                <td class="stats-num" id="contests">1</td>
+                <td class="stats-num" id="contests">39</td>
               </tr>
               <tr style="animation-delay: 1200ms;">
                 <td class="stats-icon">
@@ -203,7 +203,7 @@
                   </svg></td>
                 <td>
                   Problems Solved: </td>
-                <td class="stats-num" id="problems-solved">55</td>
+                <td class="stats-num" id="problems-solved">274</td>
               </tr>
               <tr style="animation-delay: 1200ms;">
                 <td class="stats-icon">
@@ -214,7 +214,7 @@
                     <path d="M2 6.94975C2 6.06722 2 5.62595 2.06935 5.25839C2.37464 3.64031 3.64031 2.37464 5.25839 2.06935C5.62595 2 6.06722 2 6.94975 2C7.33642 2 7.52976 2 7.71557 2.01738C8.51665 2.09229 9.27652 2.40704 9.89594 2.92051C10.0396 3.03961 10.1763 3.17633 10.4497 3.44975L11 4C11.8158 4.81578 12.2237 5.22367 12.7121 5.49543C12.9804 5.64471 13.2651 5.7626 13.5604 5.84678C14.0979 6 14.6747 6 15.8284 6H16.2021C18.8345 6 20.1506 6 21.0062 6.76946C21.0849 6.84024 21.1598 6.91514 21.2305 6.99383C22 7.84935 22 9.16554 22 11.7979V14C22 17.7712 22 19.6569 20.8284 20.8284C19.6569 22 17.7712 22 14 22H10C6.22876 22 4.34315 22 3.17157 20.8284C2 19.6569 2 17.7712 2 14V6.94975Z" stroke-width="1.5"/>
                   </svg></td>
                 <td> Submissions: </td>
-                <td class="stats-num" id="problems-solved">84</td>
+                <td class="stats-num" id="problems-solved">633</td>
               </tr>
               <tr style="animation-delay: 1400ms;">
                 <td class="stats-icon">
@@ -230,7 +230,7 @@
                   </svg></td>
                 <td>Friend
                   of: </td>
-                <td class="stats-num" id="friend-of-count">0</td>
+                <td class="stats-num" id="friend-of-count">147</td>
               </tr>
               <tr style="animation-delay: 1600ms;">
                 <td class="stats-icon">
@@ -248,7 +248,7 @@
                   </svg></td>
                 <td>
                   Contribution: </td>
-                <td class="stats-num" id="contribution">0</td>
+                <td class="stats-num" id="contribution">21</td>
               </tr>
             </tbody>
           </table>
