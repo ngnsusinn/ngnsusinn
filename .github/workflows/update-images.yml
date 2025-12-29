@@ -2,7 +2,7 @@ name: Update Images
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Chạy vào 0h sáng hàng ngày
+   - cron: '0 * * * *' # Chạy vào phút thứ 0 của mỗi giờ
   workflow_dispatch: # Cho phép bấm nút chạy thủ công để test
   push:
     branches:
