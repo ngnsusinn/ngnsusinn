@@ -161,7 +161,7 @@
                   </svg></td>
                 <td> Max Contest
                   Rating: </td>
-                <td class="stats-num" id="max-rating">0</td>
+                <td class="stats-num" id="max-rating">876</td>
               </tr>
               <tr style="animation-delay: 1000ms;">
                 <td class="stats-icon">
