@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sin Nguyen Sun's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 147, Total PRs: 21, Total Issues: 4</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 147, Total PRs: 21, Total Issues: 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 197.31533068452308;
+        stroke-dashoffset: 196.8027377953468;
       }
     }
   
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >4</text>
+      >5</text>
     </g>
   </g>
     </svg>
