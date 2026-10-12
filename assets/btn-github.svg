@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 125 34" width="125" height="34">
+  <style>
+    .btn { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'SFMono-Regular', Consolas, Menlo, monospace; font-size: 13px; transition: all 0.2s ease; cursor: pointer; }
+    .box { fill: #0a0a0a; stroke: #1e3038; stroke-width: 1; rx: 6px; transition: all 0.2s ease; }
+    .txt { fill: #9bb0be; transition: all 0.2s ease; }
+    .arr { fill: #22d3ee; transition: all 0.2s ease; }
+    svg:hover .box { stroke: #22d3ee; fill: #121a1d; }
+    svg:hover .txt { fill: #e2f0f4; }
+  </style>
+  <rect class="box" x="1" y="1" width="123" height="32" rx="6" />
+  <g class="btn">
+    <text class="txt" x="22" y="21">github</text>
+    <text class="arr" x="88" y="21">→</text>
+  </g>
+</svg>

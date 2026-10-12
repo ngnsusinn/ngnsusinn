@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 708" width="100%">
+  <defs>
+    <style>
+      .mono {
+        font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+      }
+      .cursor {
+        animation: blink 1s step-end infinite;
+      }
+      .line-1 { animation: fadeIn 0.25s ease 0.05s both; }
+      .line-2 { animation: fadeIn 0.25s ease 0.12s both; }
+      .line-3 { animation: fadeIn 0.25s ease 0.19s both; }
+      .line-4 { animation: fadeIn 0.25s ease 0.26s both; }
+      .line-5 { animation: fadeIn 0.25s ease 0.33s both; }
+      .line-6 { animation: fadeIn 0.25s ease 0.40s both; }
+      .line-7 { animation: fadeIn 0.25s ease 0.47s both; }
+      .line-8 { animation: fadeIn 0.25s ease 0.54s both; }
+      .line-9 { animation: fadeIn 0.25s ease 0.61s both; }
+      .line-10 { animation: fadeIn 0.25s ease 0.68s both; }
+      .line-11 { animation: fadeIn 0.25s ease 0.75s both; }
+      .line-12 { animation: fadeIn 0.25s ease 0.82s both; }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateX(-6px); }
+        to { opacity: 1; transform: translateX(0); }
+      }
+    </style>
+  </defs>
+
+  <!-- Main Canvas Background -->
+  <rect x="1" y="1" width="838" height="706" rx="10" fill="#0a0a0a" stroke="#1e3038" stroke-width="1.5" />
+
+  <!-- Top Header / Navigation Bar -->
+  <line x1="1" y1="56" x2="839" y2="56" stroke="#1e3038" stroke-width="1" />
+
+  <!-- Header Logo: $ shyne █ -->
+  <g class="mono" font-size="15" font-weight="600">
+    <text x="40" y="34">
+      <tspan fill="#5a7a8a">$ </tspan><tspan fill="#22d3ee">shyne</tspan>
+    </text>
+    <rect x="108" y="20" width="8" height="16" fill="#22d3ee" class="cursor" />
+  </g>
+
+  <!-- Header Nav Items -->
+  <g class="mono" font-size="13">
+    <rect x="598" y="15" width="74" height="28" rx="4" fill="#22d3ee" fill-opacity="0.07" />
+    <text x="635" y="34" text-anchor="middle">
+      <tspan fill="#5a7a8a">./</tspan><tspan fill="#22d3ee">home</tspan>
+    </text>
+    <text x="706" y="34" text-anchor="middle" fill="#5a7a8a">blog</text>
+    <text x="768" y="34" text-anchor="middle" fill="#5a7a8a">projects</text>
+  </g>
+
+  <!-- Hero Section -->
+  <g class="mono">
+    <!-- Greeting Comment -->
+    <text x="40" y="96" fill="#5a7a8a" font-size="13">// welcome to my corner of the internet</text>
+
+    <!-- Main Heading -->
+    <text x="40" y="132" font-size="26" font-weight="600" letter-spacing="-0.5" fill="#e2f0f4">
+      Hi, I'm <tspan fill="#22d3ee">Shyne</tspan> <tspan fill="#5a7a8a" font-size="15" font-weight="400">(@ngnsusinn)</tspan>
+    </text>
+
+    <!-- Subtitle -->
+    <text x="40" y="164" fill="#5a7a8a" font-size="13.5">
+      Developer &amp; builder of things. I write code, think about systems,
+    </text>
+    <text x="40" y="186" fill="#5a7a8a" font-size="13.5">
+      and sharpen algorithmic thinking. Minimalist by choice.
+    </text>
+
+    <!-- Hero Meta Row -->
+    <text x="40" y="222" font-size="12.5" xml:space="preserve"><tspan fill="#a78bfa">location</tspan><tspan fill="#5a7a8a">: </tspan><tspan fill="#c8c8c8">Vietnam</tspan><tspan fill="#1e3038">   │   </tspan><tspan fill="#a78bfa">focus</tspan><tspan fill="#5a7a8a">: </tspan><tspan fill="#c8c8c8">backend · apis · algorithms</tspan><tspan fill="#1e3038">   │   </tspan><tspan fill="#a78bfa">edu</tspan><tspan fill="#5a7a8a">: </tspan><tspan fill="#c8c8c8">IT @ UTH</tspan><tspan fill="#1e3038">   │   </tspan><tspan fill="#a78bfa">status</tspan><tspan fill="#5a7a8a">: </tspan><tspan fill="#22d3ee">● available</tspan></text>
+  </g>
+
+  <!-- Terminal Block (about.sh) -->
+  <g>
+    <!-- Terminal Card Container -->
+    <rect x="40" y="248" width="760" height="382" rx="8" fill="#121a1d" stroke="#1e3038" stroke-width="1" />
+
+    <!-- Terminal Title Bar -->
+    <path d="M 40 256 Q 40 248 48 248 L 792 248 Q 800 248 800 256 L 800 282 L 40 282 Z" fill="#0f1517" />
+    <line x1="40" y1="282" x2="800" y2="282" stroke="#1e3038" stroke-width="1" />
+
+    <!-- Terminal Control Dots -->
+    <circle cx="58" cy="265" r="5" fill="#f87171" />
+    <circle cx="74" cy="265" r="5" fill="#fbbf24" />
+    <circle cx="90" cy="265" r="5" fill="#22d3ee" />
+
+    <!-- Terminal Header Filename -->
+    <text x="420" y="269" text-anchor="middle" fill="#5a7a8a" font-size="12" class="mono">about.sh</text>
+
+    <!-- Terminal Body Lines -->
+    <g class="mono" font-size="13">
+      <text x="60" y="312" class="line-1">
+        <tspan fill="#22d3ee">$ </tspan><tspan fill="#e2f0f4">cat about.json</tspan>
+      </text>
+
+      <text x="76" y="338" fill="#5a7a8a" class="line-2">{</text>
+
+      <text x="96" y="361" class="line-3">
+        <tspan fill="#a78bfa">"name"</tspan><tspan fill="#5a7a8a">: </tspan><tspan fill="#22d3ee">"Shyne"</tspan><tspan fill="#5a7a8a">,</tspan>
+      </text>
+
+      <text x="96" y="384" class="line-4">
+        <tspan fill="#a78bfa">"role"</tspan><tspan fill="#5a7a8a">: </tspan><tspan fill="#22d3ee">"Backend Developer"</tspan><tspan fill="#5a7a8a">,</tspan>
+      </text>
+
+      <text x="96" y="407" class="line-5">
+        <tspan fill="#a78bfa">"education"</tspan><tspan fill="#5a7a8a">: </tspan><tspan fill="#22d3ee">"Information Technology @ University of Transport HCMC"</tspan><tspan fill="#5a7a8a">,</tspan>
+      </text>
+
+      <text x="96" y="430" class="line-6">
+        <tspan fill="#a78bfa">"languages"</tspan><tspan fill="#5a7a8a">: [</tspan><tspan fill="#22d3ee">"Python"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"C++"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"JavaScript"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"Node.js"</tspan><tspan fill="#5a7a8a">],</tspan>
+      </text>
+
+      <text x="96" y="453" class="line-7">
+        <tspan fill="#a78bfa">"databases"</tspan><tspan fill="#5a7a8a">: [</tspan><tspan fill="#22d3ee">"PostgreSQL"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"MySQL"</tspan><tspan fill="#5a7a8a">],</tspan>
+      </text>
+
+      <text x="96" y="476" class="line-8">
+        <tspan fill="#a78bfa">"tools"</tspan><tspan fill="#5a7a8a">: [</tspan><tspan fill="#22d3ee">"Git"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"Postman"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"VS Code"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"Vercel"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"LaTeX"</tspan><tspan fill="#5a7a8a">],</tspan>
+      </text>
+
+      <text x="96" y="499" class="line-9">
+        <tspan fill="#a78bfa">"interests"</tspan><tspan fill="#5a7a8a">: [</tspan><tspan fill="#22d3ee">"systems design"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"algorithms"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"db optimization"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"minimalism"</tspan><tspan fill="#5a7a8a">]</tspan>
+      </text>
+
+      <text x="76" y="522" fill="#5a7a8a" class="line-10">}</text>
+
+      <text x="60" y="556" class="line-11">
+        <tspan fill="#22d3ee">$ </tspan><tspan fill="#e2f0f4">uptime</tspan>
+      </text>
+
+      <text x="76" y="580" fill="#5a7a8a" font-style="italic" class="line-12">
+        # the best code is the code that doesn't need to exist...
+      </text>
+    </g>
+  </g>
+
+  <!-- Footer / Command Prompt Line -->
+  <line x1="40" y1="652" x2="800" y2="652" stroke="#1e3038" stroke-width="1" />
+  <g class="mono" font-size="13">
+    <text x="40" y="680">
+      <tspan fill="#22d3ee">shyne</tspan><tspan fill="#5a7a8a">@</tspan><tspan fill="#a78bfa">github</tspan><tspan fill="#5a7a8a">:</tspan><tspan fill="#38bdf8">~/home</tspan><tspan fill="#5a7a8a"> $ </tspan><tspan fill="#5a7a8a">type a command...</tspan>
+    </text>
+    <text x="800" y="680" text-anchor="end" font-size="12" fill="#5a7a8a">
+      built with <tspan fill="#22d3ee">♥</tspan> &amp; vanilla code
+    </text>
+  </g>
+</svg>
