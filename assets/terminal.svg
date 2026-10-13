@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 708" width="100%">
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 708" width="100%">
   <defs>
     <style>
       .mono {
@@ -61,19 +61,19 @@
 
     <!-- Main Heading -->
     <text x="40" y="132" font-size="26" font-weight="600" letter-spacing="-0.5" fill="#e2f0f4">
-      Hi, I'm <tspan fill="#22d3ee">Shyne</tspan> <tspan fill="#5a7a8a" font-size="15" font-weight="400">(@ngnsusinn)</tspan>
+      Hi, I'm <tspan fill="#22d3ee">Shyne</tspan>
     </text>
 
     <!-- Subtitle -->
     <text x="40" y="164" fill="#5a7a8a" font-size="13.5">
-      Developer &amp; builder of things. I write code, think about systems,
+      Developer &amp; builder of things. I write code, think about systems.
     </text>
     <text x="40" y="186" fill="#5a7a8a" font-size="13.5">
-      and sharpen algorithmic thinking. Minimalist by choice.
+      Minimalist by choice.
     </text>
 
     <!-- Hero Meta Row -->
-    <text x="40" y="222" font-size="12.5" xml:space="preserve"><tspan fill="#a78bfa">location</tspan><tspan fill="#5a7a8a">: </tspan><tspan fill="#c8c8c8">Vietnam</tspan><tspan fill="#1e3038">   │   </tspan><tspan fill="#a78bfa">focus</tspan><tspan fill="#5a7a8a">: </tspan><tspan fill="#c8c8c8">backend · apis · algorithms</tspan><tspan fill="#1e3038">   │   </tspan><tspan fill="#a78bfa">edu</tspan><tspan fill="#5a7a8a">: </tspan><tspan fill="#c8c8c8">IT @ UTH</tspan><tspan fill="#1e3038">   │   </tspan><tspan fill="#a78bfa">status</tspan><tspan fill="#5a7a8a">: </tspan><tspan fill="#22d3ee">● available</tspan></text>
+    <text x="40" y="222" font-size="12.5" xml:space="preserve"><tspan fill="#a78bfa">location</tspan><tspan fill="#5a7a8a">: </tspan><tspan fill="#c8c8c8">Vietnam</tspan><tspan fill="#1e3038">   │   </tspan><tspan fill="#a78bfa">focus</tspan><tspan fill="#5a7a8a">: </tspan><tspan fill="#c8c8c8">backend</tspan><tspan fill="#1e3038">   │   </tspan><tspan fill="#a78bfa">edu</tspan><tspan fill="#5a7a8a">: </tspan><tspan fill="#c8c8c8">IT@UTH</tspan><tspan fill="#1e3038">   │   </tspan><tspan fill="#a78bfa">status</tspan><tspan fill="#5a7a8a">: </tspan><tspan fill="#22d3ee">available</tspan></text>
   </g>
 
   <!-- Terminal Block (about.sh) -->
@@ -114,7 +114,7 @@
       </text>
 
       <text x="96" y="430" class="line-6">
-        <tspan fill="#a78bfa">"languages"</tspan><tspan fill="#5a7a8a">: [</tspan><tspan fill="#22d3ee">"Python"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"C++"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"JavaScript"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"Node.js"</tspan><tspan fill="#5a7a8a">],</tspan>
+        <tspan fill="#a78bfa">"languages"</tspan><tspan fill="#5a7a8a">: [</tspan><tspan fill="#22d3ee">"C++"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"C#"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"Java"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"Python"</tspan><tspan fill="#5a7a8a">],</tspan>
       </text>
 
       <text x="96" y="453" class="line-7">
@@ -122,7 +122,7 @@
       </text>
 
       <text x="96" y="476" class="line-8">
-        <tspan fill="#a78bfa">"tools"</tspan><tspan fill="#5a7a8a">: [</tspan><tspan fill="#22d3ee">"Git"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"Postman"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"VS Code"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"Vercel"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"LaTeX"</tspan><tspan fill="#5a7a8a">],</tspan>
+        <tspan fill="#a78bfa">"tools"</tspan><tspan fill="#5a7a8a">: [</tspan><tspan fill="#22d3ee">"Git"</tspan><tspan fill="#5a7a8a">, </tspan><tspan fill="#22d3ee">"DSH"</tspan><tspan fill="#5a7a8a">],</tspan>
       </text>
 
       <text x="96" y="499" class="line-9">
